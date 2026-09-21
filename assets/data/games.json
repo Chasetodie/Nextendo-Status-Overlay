@@ -2,7 +2,7 @@
   "games": [
     { "name": "Mario Kart 8 Deluxe", "ids": ["0100152000022000"], "icon": "" },
     { "name": "Splatoon 2", "ids": ["0100f8f0000a2000", "01003bc0000a0000", "01003c700009c800"], "icon": "" },
-    { "name": "Splatoon 3", "ids": ["0100c2500fc20000"], "icon": "splatoon3", "version": "11.3.0 + 3 DLC", "percent": 78, "status": "Partidas en línea, salas privadas, Salmon Run y festivales" }
+    { "name": "Splatoon 3", "ids": ["0100c2500fc20000"], "icon": "splatoon3", "version": "11.3.0 + 3 DLC", "percent": 78, "status": "Partidas en línea, salas privadas, Salmon Run y festivales" },
     { "name": "Smash Ultimate", "ids": ["01006a800016e000"], "icon": "" },
     { "name": "Animal Crossing: New Horizons", "ids": ["01006f8002326000"], "icon": "" },
     { "name": "Luigi's Mansion 3", "ids": ["0100dca0064a6000"], "icon": "" },
