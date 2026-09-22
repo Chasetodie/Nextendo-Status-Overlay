@@ -12,11 +12,11 @@
     { "name": "Super Mario Maker 2", "ids": ["01009b90006dc000"], "icon": "supermaker", "version": "3.0.3", "percent": 70, "status": "Course World, publicación, récords mundiales y comentarios" },
     { "name": "PAC-MAN 99", "ids": ["0100ad9012510000"], "icon": "pac99", "version": "1.1.0 + 25 DLCS", "percent": 100, "status": "Partidas completas a 99 jugadores" },
     { "name": "Super Mario Bros. 35", "ids": ["0100277011f1a000"], "icon": "mario35", "version": "1.0.2", "percent": 100, "status": "Partidas completas a 35 jugadores" },
-    { "name": "Super Mario Bros. Wonder", "ids": ["010015100B514000"], "icon": "wonder", "version": "1.2.1", "percent": 75, "status": "Juego en linea y salas con amigos" },
+    { "name": "Super Mario Bros. Wonder", "ids": ["010015100b514000"], "icon": "wonder", "version": "1.2.1", "percent": 75, "status": "Juego en linea y salas con amigos" },
     { "name": "Monster Hunter Generations Ultimate", "ids": ["0100770008dd8000"], "icon": "mhgu", "version": "1.4.0", "percent": 100, "status": "Cazas en línea, salas y multijugador completo" },
-    { "name": "51 Clubhouse Games: Worldwide Classics", "ids": ["010047700D540000"], "icon": "51club", "version": "2.0.1", "percent": 100, "status": "Partidas en línea, salas y multijugador" },
+    { "name": "51 Clubhouse Games: Worldwide Classics", "ids": ["010047700d540000"], "icon": "51club", "version": "2.0.1", "percent": 100, "status": "Partidas en línea, salas y multijugador" },
     { "name": "Metal Gear Solid Peacewalker", "ids": ["0100C6F01C4F8001"], "icon": "metalsolid", "version": "1.3.0", "percent": 70, "status": "" },
-    { "name": "Mario Party Superstars", "ids": ["01006FE013472000"], "icon": "superstars", "version": "1.1.1", "percent": 70, "status": "" },
+    { "name": "Mario Party Superstars", "ids": ["01006fe013472000"], "icon": "superstars", "version": "1.1.1", "percent": 70, "status": "" },
     { "name": "Crash Team Racing", "ids": ["0100F9F00C696000"], "icon": "ctr", "version": "1.0.15", "percent": 70, "status": "" }
   ]
 }
