@@ -1,7 +1,7 @@
 {
   "games": [
     { "name": "Mario Kart 8 Deluxe", "ids": ["0100152000022000"], "icon": "mk8d", "version": "4.0.0 + 1-6 DLC", "percent": 91, "status": "Carreras en línea mundiales, salones y amigos" },
-    { "name": "Splatoon 2", "ids": ["0100f8f0000a2000"], "01003bc0000a0000", "01003c700009c800"], "icon": "splatoon2", "version": "5.5.2 + 2 DLC", "percent": 87, "status": "Turf War a 8, amigos y Salmon Run" },
+    { "name": "Splatoon 2", "ids": ["0100f8f0000a2000", "01003bc0000a0000", "01003c700009c800"], "icon": "splatoon2", "version": "5.5.2 + 2 DLC", "percent": 87, "status": "Turf War a 8, amigos y Salmon Run" },
     { "name": "Splatoon 3", "ids": ["0100c2500fc20000"], "icon": "splatoon3", "version": "11.3.0 + 3 DLC", "percent": 78, "status": "Partidas en línea, salas privadas, Salmon Run y festivales" },
     { "name": "Super Smash Bros. Ultimate", "ids": ["01006a800016e000"], "icon": "smash", "version": "13.0.5 + 99 DLC", "percent": 84, "status": "Arenas en línea y amigos" },
     { "name": "Animal Crossing: New Horizons", "ids": ["01006f8002326000"], "icon": "acnh", "version": "11.3.0 + 1 Event + 3 DLC", "percent": 73, "status": "Visitas a islas entre amigos" },
@@ -17,6 +17,6 @@
     { "name": "51 Clubhouse Games: Worldwide Classics", "ids": ["010047700D540000"], "icon": "51club", "version": "2.0.1", "percent": 100, "status": "Partidas en línea, salas y multijugador" },
     { "name": "Metal Gear Solid Peacewalker", "ids": ["0100C6F01C4F8001"], "icon": "metalsolid", "version": "1.3.0", "percent": 70, "status": "" },
     { "name": "Mario Party Superstars", "ids": ["01006FE013472000"], "icon": "superstars", "version": "1.1.1", "percent": 70, "status": "" },
-    { "name": "Crash Team Racing", "ids": ["0100F9F00C696000"], "icon": "ctr", "version": "1.0.15", "percent" 70, "status": "" }
+    { "name": "Crash Team Racing", "ids": ["0100F9F00C696000"], "icon": "ctr", "version": "1.0.15", "percent": 70, "status": "" }
   ]
 }
