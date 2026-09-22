@@ -17,6 +17,7 @@
     { "name": "51 Clubhouse Games: Worldwide Classics", "ids": ["010047700d540000"], "icon": "51club", "version": "2.0.1", "percent": 100, "status": "Partidas en línea, salas y multijugador" },
     { "name": "Metal Gear Solid Peacewalker", "ids": ["0100C6F01C4F8001"], "icon": "metalsolid", "version": "1.3.0", "percent": 70, "status": "" },
     { "name": "Mario Party Superstars", "ids": ["01006fe013472000"], "icon": "superstars", "version": "1.1.1", "percent": 70, "status": "" },
-    { "name": "Crash Team Racing", "ids": ["0100F9F00C696000"], "icon": "ctr", "version": "1.0.15", "percent": 70, "status": "" }
+    { "name": "Crash Team Racing", "ids": ["0100F9F00C696000"], "icon": "ctr", "version": "1.0.15", "percent": 70, "status": "" },
+    { "name": "Diablo III", "ids": ["01001B300B9BE000"], "icon": "diablo3", "version": "2.7.7.92380", "percent": 70, "status": "" }
   ]
 }
