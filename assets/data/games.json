@@ -1,16 +1,16 @@
 {
   "games": [
-    { "name": "Mario Kart 8 Deluxe", "ids": ["0100152000022000"], "icon": "", "version": "4.0.0 + Course Boosted 1-6 DLC", "percent": 91, "status": "Testing aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa" },
-    { "name": "Splatoon 2", "ids": ["0100f8f0000a2000", "01003bc0000a0000", "01003c700009c800"], "icon": "" },
+    { "name": "Mario Kart 8 Deluxe", "ids": ["0100152000022000"], "icon": "mk8d", "version": "4.0.0 + 1-6 DLC", "percent": 91, "status": "Carreras en línea mundiales, salones y amigos" },
+    { "name": "Splatoon 2", "ids": ["0100f8f0000a2000", "01003bc0000a0000", "01003c700009c800"], "icon": "splatoon2", , "version": "5.5.2 + 2 DLC", "percent": 87, "status": "Turf War a 8, amigos y Salmon Run" },
     { "name": "Splatoon 3", "ids": ["0100c2500fc20000"], "icon": "splatoon3", "version": "11.3.0 + 3 DLC", "percent": 78, "status": "Partidas en línea, salas privadas, Salmon Run y festivales" },
-    { "name": "Smash Ultimate", "ids": ["01006a800016e000"], "icon": "" },
-    { "name": "Animal Crossing: New Horizons", "ids": ["01006f8002326000"], "icon": "" },
-    { "name": "Luigi's Mansion 3", "ids": ["0100dca0064a6000"], "icon": "" },
-    { "name": "Minecraft", "ids": ["01006bd001e06000"], "icon": "" },
-    { "name": "ARMS", "ids": ["01009b500007c000"], "icon": "" },
-    { "name": "Mario Tennis Aces", "ids": ["0100bde00862a000"], "icon": "" },
-    { "name": "Super Mario Maker 2", "ids": ["01009b90006dc000"], "icon": "" },
-    { "name": "PAC-MAN 99", "ids": ["0100ad9012510000"], "icon": "", "version": "1.1.0 + 25 DLCS", "percent": 100, "status": "Partidas completas a 99 jugadores" },
-    { "name": "Super Mario Bros. 35", "ids": ["0100277011f1a000"], "icon": "" }
+    { "name": "Smash Ultimate", "ids": ["01006a800016e000"], "icon": "smash", "version": "13.0.5 + 99 DLC", "percent": 84, "status": "Arenas en línea y amigos" },
+    { "name": "Animal Crossing: New Horizons", "ids": ["01006f8002326000"], "icon": "acnh", "version": "11.3.0 + 1 Event + 3 DLC", "percent": 73, "status": "Visitas a islas entre amigos" },
+    { "name": "Luigi's Mansion 3", "ids": ["0100dca0064a6000"], "icon": "luigis", "version": "1.4.0 + 2 DLC", "percent": 100, "status": "Totalmente en línea, incluidas las salas entre amigos" },
+    { "name": "Minecraft Legacy", "ids": ["01006bd001e06000"], "icon": "minecraft", "version": "1.0.17", "percent": 51, "status": "Conexión al servidor en línea" },
+    { "name": "ARMS", "ids": ["01009b500007c000"], "icon": "arms", "version": "5.5.1", "percent": 100, "status": "Totalmente en línea" },
+    { "name": "Mario Tennis Aces", "ids": ["0100bde00862a000"], "icon": "mariotennis" },
+    { "name": "Super Mario Maker 2", "ids": ["01009b90006dc000"], "icon": "supermaker" },
+    { "name": "PAC-MAN 99", "ids": ["0100ad9012510000"], "icon": "pac99", "version": "1.1.0 + 25 DLCS", "percent": 100, "status": "Partidas completas a 99 jugadores" },
+    { "name": "Super Mario Bros. 35", "ids": ["0100277011f1a000"], "icon": "mario35" }
   ]
 }
