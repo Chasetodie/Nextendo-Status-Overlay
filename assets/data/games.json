@@ -15,10 +15,10 @@
     { "name": "Super Mario Bros. Wonder", "ids": ["010015100b514000"], "icon": "wonder", "version": "1.2.1", "percent": 75, "status": "Juego en linea y salas con amigos" },
     { "name": "Monster Hunter Generations Ultimate", "ids": ["0100770008dd8000"], "icon": "mhgu", "version": "1.4.0", "percent": 100, "status": "Cazas en línea, salas y multijugador completo" },
     { "name": "51 Clubhouse Games: Worldwide Classics", "ids": ["010047700d540000"], "icon": "51club", "version": "2.0.1", "percent": 100, "status": "Partidas en línea, salas y multijugador" },
-    { "name": "Metal Gear Solid Peacewalker", "ids": ["0100c6f01c4f8001"], "icon": "metalsolid", "version": "1.3.0", "percent": 70, "status": "" },
-    { "name": "Mario Party Superstars", "ids": ["01006fe013472000"], "icon": "superstars", "version": "1.1.1", "percent": 70, "status": "" },
-    { "name": "Crash Team Racing", "ids": ["0100f9f00c696000"], "icon": "ctr", "version": "1.0.15", "percent": 70, "status": "" },
-    { "name": "Diablo III", "ids": ["01001b300b9be000"], "icon": "diablo3", "version": "2.7.7.92380", "percent": 70, "status": "" },
-    { "name": "Overcooked 2", "ids": ["01006fd0080b2000"], "icon": "over2", "version": "1.0.19", "percent": 70, "status": "" }
+    { "name": "Metal Gear Solid Peacewalker", "ids": ["0100c6f01c4f8001"], "icon": "metalsolid", "version": "1.3.0", "percent": 100, "status": "Cooperativo y Versus Ops completamente terminados" },
+    { "name": "Mario Party Superstars", "ids": ["01006fe013472000"], "icon": "superstars", "version": "1.1.1", "percent": 100, "status": "Código de sala y emparejamiento finalizados" },
+    { "name": "Crash Team Racing", "ids": ["0100f9f00c696000"], "icon": "ctr", "version": "1.0.15", "percent": 100, "status": "Pit Stop, desafíos Wumpa y economía terminados" },
+    { "name": "Diablo III", "ids": ["01001b300b9be000"], "icon": "diablo3", "version": "2.7.7.92380", "percent": 90, "status": "Partida rápida y salas de amigos en emulador" },
+    { "name": "Overcooked 2", "ids": ["01006fd0080b2000"], "icon": "over2", "version": "1.0.19", "percent": 100, "status": "Salas de amigos por búsqueda y emparejamiento" }
   ]
 }
