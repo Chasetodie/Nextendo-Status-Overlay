@@ -19,6 +19,10 @@
     { "name": "Mario Party Superstars", "ids": ["01006fe013472000"], "icon": "superstars", "version": "1.1.1", "percent": 100, "status": "Código de sala y emparejamiento finalizados" },
     { "name": "Crash Team Racing", "ids": ["0100f9f00c696000"], "icon": "ctr", "version": "1.0.15", "percent": 100, "status": "Pit Stop, desafíos Wumpa y economía terminados" },
     { "name": "Diablo III", "ids": ["01001b300b9be000"], "icon": "diablo3", "version": "2.7.7.92380", "percent": 90, "status": "Partida rápida y salas de amigos en emulador" },
-    { "name": "Overcooked 2", "ids": ["01006fd0080b2000"], "icon": "over2", "version": "1.0.19", "percent": 100, "status": "Salas de amigos por búsqueda y emparejamiento" }
+    { "name": "Overcooked 2", "ids": ["01006fd0080b2000"], "icon": "over2", "version": "1.0.19 + 6 DLC", "percent": 100, "status": "Salas de amigos por búsqueda y emparejamiento" },
+    { "name": "Super Mario Odyssey", "ids": ["0100000000010000"], "icon": "mariody", "version": "1.4.1", "percent": 70, "status": "" },
+    { "name": "Pokémon Violet", "ids": ["01008f6008c5e000"], "icon": "pokevio", "version": "4.0.0", "percent": 80, "status": "Todo el juego en línea salvo las competiciones, los Combates Múltiples y el Regalo Misterioso" },
+    { "name": "Pokémon Scarlet", "ids": ["0100a3d008c5c000"], "icon": "pokescar", "version": "4.0.0", "percent": 80, "status": "Todo el juego en línea salvo las competiciones, los Combates Múltiples y el Regalo Misterioso" },
+    { "name": "Nintendo 64 - Nintendo Classics", "ids": ["0100c9a00ece6000"], "icon": "n64", "version": "4.2.0", "percent": 95, "status": "Juego en línea con amigos" }
   ]
 }
