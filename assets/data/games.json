@@ -23,6 +23,8 @@
     { "name": "Super Mario Odyssey", "ids": ["0100000000010000"], "icon": "mariody", "version": "1.4.1", "percent": 70, "status": "" },
     { "name": "Pokémon Violet", "ids": ["01008f6008c5e000"], "icon": "pokevio", "version": "4.0.0", "percent": 80, "status": "Todo el juego en línea salvo las competiciones, los Combates Múltiples y el Regalo Misterioso" },
     { "name": "Pokémon Scarlet", "ids": ["0100a3d008c5c000"], "icon": "pokescar", "version": "4.0.0", "percent": 80, "status": "Todo el juego en línea salvo las competiciones, los Combates Múltiples y el Regalo Misterioso" },
-    { "name": "Nintendo 64 - Nintendo Classics", "ids": ["0100c9a00ece6000"], "icon": "n64", "version": "4.2.0", "percent": 95, "status": "Juego en línea con amigos" }
+    { "name": "Nintendo 64 - Nintendo Classics", "ids": ["0100c9a00ece6000"], "icon": "n64", "version": "4.2.0", "percent": 95, "status": "Juego en línea con amigos" },
+    { "name": "Pokémon Legends: Z-A", "ids": ["0100f43008c44000"], "icon": "pokeza", "version": "2.0.2", "percent": 85, "status": "Intercambios en línea y combates privados; combates clasificatorios aún sin probar" },
+    { "name": "Mario Golf: Super Rush", "ids": ["0100c9c00e25c000"], "icon": "mariogolf", "version": "4.0.0", "percent": 80, "status": "Juego en línea" }
   ]
 }
