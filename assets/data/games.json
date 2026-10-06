@@ -26,7 +26,7 @@
     { "name": "Nintendo 64 - Nintendo Classics", "ids": ["0100c9a00ece6000"], "icon": "n64", "version": "4.2.0", "percent": 95, "status": "Juego en línea con amigos" },
     { "name": "Pokémon Legends: Z-A", "ids": ["0100f43008c44000"], "icon": "pokeza", "version": "2.0.2", "percent": 85, "status": "Intercambios en línea y combates privados; combates clasificatorios aún sin probar" },
     { "name": "Mario Golf: Super Rush", "ids": ["0100c9c00e25c000"], "icon": "mariogolf", "version": "4.0.0", "percent": 80, "status": "Juego en línea" },
-    { "name": "Tetris 99", "ids": ["010040600c5ce000"], "icon": "mariogolf", "version": "2.6.0", "percent": 100, "status": "Partidas completas de 99 jugadores" },
+    { "name": "Tetris 99", "ids": ["010040600c5ce000"], "icon": "tetris99", "version": "2.6.0", "percent": 100, "status": "Partidas completas de 99 jugadores" },
     { "name": "Saints Row: The Third", "ids": ["0100de600beee000"], "icon": "saintsrow", "version": "1.6.1", "percent": 100, "status": "Campaña cooperativa en línea, emparejamiento y modo Whored" },
     { "name": "Mario Strikers: Battle League", "ids": ["010019401051c000"], "icon": "mariostrike", "version": "1.3.2", "percent": 95, "status": "Partidos en línea, salas con amigos y Club Strikers" },
     { "name": "Super Mario 3D World + Bowser's Fury", "ids": ["010028600ebda000"], "icon": "mario3dworl", "version": "1.2.2", "percent": 90, "status": "Cooperativo en línea y salas en Ryujinx, Citron y consola (versión 1.2.2 del juego); las salas con contraseña aún no funcionan" },
