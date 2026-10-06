@@ -31,6 +31,7 @@
     { "name": "Mario Strikers: Battle League", "ids": ["010019401051c000"], "icon": "mariostrike", "version": "1.3.2", "percent": 95, "status": "Partidos en línea, salas con amigos y Club Strikers" },
     { "name": "Super Mario 3D World + Bowser's Fury", "ids": ["010028600ebda000"], "icon": "mario3dworl", "version": "1.2.2", "percent": 90, "status": "Cooperativo en línea y salas en Ryujinx, Citron y consola (versión 1.2.2 del juego); las salas con contraseña aún no funcionan" },
     { "name": "Pokkén Tournament DX", "ids": ["0100b3f000be2000"], "icon": "poketourn", "version": "1.3.3", "percent": 90, "status": "Combates clasificatorios y amistosos, partidas de grupo, cartas y clasificaciones; el teatro de repeticiones aún no funciona" },
-    { "name": "Minecraft Dungeons II", "ids": ["0100a7c01b792000"], "icon": "minedung2", "version": "1.0.1", "percent": 65, "status": "Inicio de sesión, héroes, inventario y grupos en línea" }
+    { "name": "Minecraft Dungeons II", "ids": ["0100a7c01b792000"], "icon": "minedung2", "version": "1.0.1", "percent": 65, "status": "Inicio de sesión, héroes, inventario y grupos en línea" },
+    { "name": "Just Shapes & Beats", "ids": ["0100830008426000"], "icon": "jsab", "version": "1.6.51", "percent": 100, "status": "Emparejamiento público y multijugador en línea" }
   ]
 }
