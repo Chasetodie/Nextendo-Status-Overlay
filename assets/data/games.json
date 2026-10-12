@@ -32,6 +32,11 @@
     { "name": "Super Mario 3D World + Bowser's Fury", "ids": ["010028600ebda000"], "icon": "mario3dworl", "version": "1.2.2", "percent": 90, "status": "Cooperativo en línea y salas en Ryujinx, Citron y consola (versión 1.2.2 del juego); las salas con contraseña aún no funcionan" },
     { "name": "Pokkén Tournament DX", "ids": ["0100b3f000be2000"], "icon": "poketourn", "version": "1.3.3", "percent": 90, "status": "Combates clasificatorios y amistosos, partidas de grupo, cartas y clasificaciones; el teatro de repeticiones aún no funciona" },
     { "name": "Minecraft Dungeons II", "ids": ["0100a7c01b792000"], "icon": "minedung2", "version": "1.0.1", "percent": 65, "status": "Inicio de sesión, héroes, inventario y grupos en línea" },
-    { "name": "Just Shapes & Beats", "ids": ["0100830008426000"], "icon": "jsab", "version": "1.6.51", "percent": 100, "status": "Emparejamiento público y multijugador en línea" }
+    { "name": "Just Shapes & Beats", "ids": ["0100830008426000"], "icon": "jsab", "version": "1.6.51", "percent": 100, "status": "Emparejamiento público y multijugador en línea" },
+    { "name": "Super Mario Party Jamboree", "ids": ["0100965017338000"], "icon": "mariojamb", "version": "2.3.0", "percent": 100, "status": "Todos los modos en límea, emparejamiento y salas con amigos" },
+    { "name": "Ultimate Chicken Horse", "ids": ["0100fcf002a58000"], "icon": "uch", "version": "1.13.13.765", "percent": 90, "status": "Juego en línea, salas con amigos y niveles personalizados" },
+    { "name": "Dragon Ball Fighter Z", "ids": ["0100a250097f0000"], "icon": "dbz", "version": "1.50", "percent": 85, "status": "Búsqueda de Matches y Ring Matches; Replay Theater y Arena Matches no funciona todavía" },
+    { "name": "Monopoly for Nintendo Switch", "ids": ["01007430037f6000"], "icon": "monopoly", "version": "1.0.5", "percent": 75, "status": "" },
+    { "name": "Nintendo Switch Sports", "ids": ["0100d2f00d5c0000"], "icon": "switchsports", "version": "1.5.0", "percent": 75, "status": "" }
   ]
 }
